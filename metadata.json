@@ -1,0 +1,6 @@
+{
+  "name": "MatrizLab - Explorador Interactivo de la Matriz de Confusión",
+  "description": "Herramienta interactiva y educativa para dominar la matriz de confusión, desmitificar la paradoja del accuracy frente al F1-Score, y comparar modelos en escenarios reales y desbalanceados.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
